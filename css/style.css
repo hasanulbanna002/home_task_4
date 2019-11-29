@@ -1,0 +1,41 @@
+.header{
+	margin: 1px;
+	padding: 5px;
+	border: 5px dashed darkblue;
+	min-height: 120px;
+	background-color: teal;
+	text-align: center;
+	color: white;
+}
+.container{
+	overflow: hidden;
+}
+.blog{
+	margin: 1px;
+	padding: 5px;
+	border: 5px dashed darkblue;
+	float: left;
+	width: 70%;
+	min-height: 350px;
+	background-color: salmon;
+	color: white;
+}
+.contact{
+	margin: 1px;
+	padding: 5px;
+	border: 5px dashed darkblue;
+	float: right;
+	width: 25%;
+	min-height: 350px;
+	background-color: olive;
+	color: white;
+}
+.footer{
+	margin: 1px;
+	padding: 5px;
+	border: 5px dashed darkblue;
+	min-height: 120px;
+	background-color: green;
+	text-align: center;
+	color: white;
+}
